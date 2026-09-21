@@ -1,0 +1,145 @@
+Privacy Policy
+
+Last Updated: September 21, 2026
+
+This Privacy Policy describes how [APP NAME] (“the App”, “we”, “us”, or “our”) handles information when you use our macOS application.
+
+1. Our Privacy Commitment
+
+We respect your privacy.
+
+[APP NAME] is designed to operate primarily on your Mac. We do not sell, rent, or trade your personal information.
+
+Unless explicitly stated in this Privacy Policy, we do not collect personal information from you through the App.
+
+2. Information We Collect
+
+Information You Provide
+
+The App does not require you to provide personal information such as your name, email address, telephone number, or physical address in order to use its core functionality.
+
+If you voluntarily contact us, for example by email or through our website, we may receive the information you choose to provide.
+
+Automatically Collected Information
+
+Depending on the configuration and functionality of the App, we may collect limited technical information necessary to operate, maintain, and improve the App, such as:
+
+	•	App version;
+	•	macOS version;
+	•	device type;
+	•	diagnostic information;
+	•	crash reports;
+	•	error information.
+
+We do not use this information to identify you personally unless required for a specific purpose described in this Privacy Policy.
+
+3. Local Data
+
+The App may create, process, or store information locally on your Mac.
+
+Information stored locally by the App remains under your control and is not transmitted to us unless the App specifically provides a feature that requires transmission.
+
+You can remove locally stored App data using the standard macOS mechanisms or the App’s available settings.
+
+4. Network Communications
+
+Some features of the App may require network communication.
+
+When network communication is used, the App may transmit only the information necessary to provide the requested functionality.
+
+If a particular feature communicates with a third-party service, the applicable third party’s privacy policy may also apply.
+
+5. Third-Party Services
+
+The App may use third-party services for purposes such as:
+
+	•	analytics;
+
+Where third-party services are used, they may process information according to their own privacy policies.
+
+We do not sell your personal information to third parties.
+
+6. Apple Services and macOS Permissions
+
+The App may request access to certain macOS resources or services when required for its functionality.
+
+Examples may include:
+
+	•	Files and Folders;
+
+The App will request permission through the standard macOS permission system where required.
+
+You can manage these permissions at any time through:
+
+System Settings → Privacy & Security
+
+The App does not obtain access to protected resources without the permissions provided by macOS.
+
+7. Analytics
+
+We may use analytics services to understand how the App is used and to improve its functionality. Analytics information may include technical information and general usage events.
+
+We do not intentionally use analytics to identify individual users.
+
+8. Crash Reports and Diagnostics
+
+If crash reporting is enabled, diagnostic information may be collected when the App crashes.
+
+Such information may include technical details about the App, operating system, hardware configuration, and the circumstances of the crash.
+
+Crash reports are used solely for purposes such as identifying bugs, improving stability, and maintaining the App.
+
+9. Data Security
+
+We take reasonable technical and organizational measures to protect information processed in connection with the App.
+
+However, no method of electronic storage or transmission over the Internet can be guaranteed to be completely secure.
+
+10. Children’s Privacy
+
+The App is not specifically directed toward children under the age of 13.
+
+We do not knowingly collect personal information from children under 13.
+
+If you believe that a child has provided us with personal information, please contact us so that we can take appropriate action.
+
+11. Data Retention
+
+We retain information only for as long as reasonably necessary for the purposes described in this Privacy Policy, unless a longer retention period is required by law.
+
+Information stored locally on your Mac may remain there until you delete it or uninstall the App.
+
+12. Your Rights
+
+Depending on your country or jurisdiction, you may have rights regarding your personal information, including the right to:
+
+	•	request access to personal information we hold about you;
+	•	request correction of inaccurate information;
+	•	request deletion of your personal information;
+	•	object to certain processing;
+	•	request restriction of processing;
+	•	request a copy of certain information.
+
+To exercise applicable rights, contact us using the information below.
+
+13. International Users
+
+If you use the App from outside the country in which our services or infrastructure are located, your information may be processed in other countries.
+
+Those countries may have data-protection laws different from those in your jurisdiction.
+
+14. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+When we make changes, we will update the “Last Updated” date at the beginning of this Privacy Policy.
+
+Your continued use of the App after an updated Privacy Policy becomes effective constitutes use of the App under the updated policy.
+
+15. Contact Us
+
+If you have questions about this Privacy Policy or our privacy practices, please contact us:
+
+The Wand Corporation
+Email: the.wand.machine@gmail.com
+Website: https://github.com/The-Wand/
